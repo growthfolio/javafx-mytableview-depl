@@ -2,7 +2,6 @@ package com.example.tablefx;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import java.util.List;
 import java.util.stream.IntStream;
 
 import javafx.collections.FXCollections;
